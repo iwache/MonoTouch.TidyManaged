@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidyManagedDemo", "TidyManagedDemo\TidyManagedDemo.csproj", "{425E87E4-4682-4C31-8468-AA08B774BFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TidyManaged", "TidyManaged\TidyManaged.csproj", "{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Debug|iPhone.Build.0 = Debug|iPhone
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Release|iPhone.ActiveCfg = Release|iPhone
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Release|iPhone.Build.0 = Release|iPhone
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{425E87E4-4682-4C31-8468-AA08B774BFC1}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Release|iPhone.Build.0 = Release|iPhone
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D9CCB2A0-3531-46E5-9E8A-B7849E3CDF3E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TidyManagedDemo\TidyManagedDemo.csproj
+	EndGlobalSection
+EndGlobal
