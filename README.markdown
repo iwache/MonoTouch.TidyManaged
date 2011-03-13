@@ -5,8 +5,7 @@ Managed MonoTouch wrapper of the HTML Tidy library.
 
 This is a managed MonoTouch / iPhone iOS wrapper for the open source, cross-platform Tidy library, a HTML/XHTML/XML markup parser & cleaner originally created by Dave Raggett.
 
-This wrapper is originally created by Mark Beaton. github project 
-For more informations see Mark Beaton's original project [TidyManaged](https://github.com/markbeaton/TidyManaged).
+This wrapper is originally created by Mark Beaton. For more informations see Mark Beaton's original project [TidyManaged](https://github.com/markbeaton/TidyManaged).
 
 For information about Tidy visit [Dave Raggett's original web page](http://www.w3.org/People/Raggett/tidy/) and the [SourceForge project](http://tidy.sourceforge.net/) that has taken over maintenance of the library.
 
