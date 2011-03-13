@@ -3,9 +3,12 @@ Managed MonoTouch wrapper of the HTML Tidy library.
 
 # TidyManaged
 
-This is a managed .NET/Mono wrapper for the open source, cross-platform Tidy library, a HTML/XHTML/XML markup parser & cleaner originally created by Dave Raggett.
+This is a managed MonoTouch / iPhone iOS wrapper for the open source, cross-platform Tidy library, a HTML/XHTML/XML markup parser & cleaner originally created by Dave Raggett.
 
-I'm not going to explain Tidy's "raison d'être" - please read [Dave Raggett's original web page](http://www.w3.org/People/Raggett/tidy/) for more information, or the [SourceForge project](http://tidy.sourceforge.net/) that has taken over maintenance of the library.
+This wrapper is originally created by Mark Beaton. github project 
+For more informations see Mark Beaton's original project [TidyManaged](https://github.com/markbeaton/TidyManaged).
+
+For information about Tidy visit [Dave Raggett's original web page](http://www.w3.org/People/Raggett/tidy/) and the [SourceForge project](http://tidy.sourceforge.net/) that has taken over maintenance of the library.
 
 ## libtidy
 
