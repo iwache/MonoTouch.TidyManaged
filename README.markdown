@@ -1,7 +1,4 @@
-Managed MonoTouch wrapper of the HTML Tidy library.
-
-
-# TidyManaged
+# MonoTouch.TidyManaged
 
 This is a managed MonoTouch / iPhone iOS wrapper for the open source, cross-platform Tidy library, a HTML/XHTML/XML markup parser & cleaner originally created by Dave Raggett.
 
@@ -11,9 +8,7 @@ For information about Tidy visit [Dave Raggett's original web page](http://www.w
 
 ## libtidy
 
-This wrapper is written in C#, and makes use of .NET platform invoke (p/invoke) functionality to interoperate with the Tidy library "libtidy" (written in portable ANSI C).
-
-Therefore, you'll also need a build of the binary appropriate for your platform. If you're after a 32 or 64 bit Windows build, or you want a more recent build for Mac OS X than the one that is bundled with the OS, visit the [downloads page](http://github.com/markbeaton/TidyManaged/downloads) at GitHub. Otherwise, grab the latest source from the [SourceForge project](http://tidy.sourceforge.net/), and roll your own.
+This wrapper is written in MonoTouch/C#, and makes use of .NET platform invoke (p/invoke) functionality to interoperate with the Tidy library "libtidy.dylib" (written in portable ANSI C) which is part of the iOS operating system libraries and already available on any iPhone with iOS4 or above.
 
 ## Sample Usage
 
@@ -63,7 +58,6 @@ Note: always remember to .Dispose() of your Document instance (or wrap it in a "
 			// output tidy html
 			Console.WriteLine(tidyHtml);
 		}
-
 
 results in:
 
